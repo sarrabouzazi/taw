@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="411" height="289" viewBox="0 0 411 289">
+  <defs>
+    <clipPath id="clip-Plan_de_travail_7">
+      <rect width="411" height="289"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_7" data-name="Plan de travail – 7" clip-path="url(#clip-Plan_de_travail_7)">
+    <rect width="411" height="289" fill="#fff"/>
+    <g id="Groupe_405" data-name="Groupe 405" transform="translate(-243 -1413)">
+      <text id="What_do_we_aim_for_" data-name="What do we aim for?" transform="translate(249 1610)" fill="#081d82" font-size="224" font-family="Raleway" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+      <text id="An_Intensive_3-days_training_bootcamp_pitching_competition_to_be_held_in_Tunisia_Senegal_Ethiopia_Tanzania" data-name="An Intensive 3-days training bootcamp &amp; pitching competition to be held in Tunisia, Senegal, Ethiopia &amp; Tanzania" transform="translate(387 1582)" fill="#050f3c" font-size="20" font-family="Raleway-Regular, Raleway"><tspan x="0" y="19">An Intensive 3-days training </tspan><tspan x="0" y="43">bootcamp &amp; pitching </tspan><tspan x="0" y="67">competition to be held in </tspan><tspan x="0" y="91">Tunisia, Senegal, Ethiopia &amp; </tspan></text>
+      <g id="Groupe_301" data-name="Groupe 301" transform="translate(-10.852 1160.344)">
+        <circle id="Ellipse_16" data-name="Ellipse 16" cx="9.517" cy="9.517" r="9.517" transform="translate(537.569 366.083)" fill="#f3525d"/>
+        <path id="Tracé_2580" data-name="Tracé 2580" d="M559.188,430.129a15.637,15.637,0,1,1,31.274,0" transform="translate(-27.739 -27.884)" fill="#f3525d"/>
+        <circle id="Ellipse_17" data-name="Ellipse 17" cx="11.521" cy="11.521" r="11.521" transform="translate(470.762 311.984)" fill="#f3525d"/>
+        <path id="Tracé_2581" data-name="Tracé 2581" d="M467.635,366.5a18.93,18.93,0,1,1,37.861,0" transform="translate(-4.283 -10.738)" fill="#f3525d"/>
+        <circle id="Ellipse_18" data-name="Ellipse 18" cx="9.517" cy="9.517" r="9.517" transform="translate(579.631 366.083)" fill="#f3525d"/>
+        <path id="Tracé_2582" data-name="Tracé 2582" d="M615.738,430.129a15.637,15.637,0,1,1,31.274,0" transform="translate(-42.227 -27.884)" fill="#f3525d"/>
+        <circle id="Ellipse_19" data-name="Ellipse 19" cx="9.517" cy="9.517" r="9.517" transform="translate(457.039 366.083)" fill="#f3525d"/>
+        <path id="Tracé_2583" data-name="Tracé 2583" d="M450.919,430.129a15.637,15.637,0,1,1,31.274,0" transform="translate(0 -27.884)" fill="#f3525d"/>
+        <circle id="Ellipse_20" data-name="Ellipse 20" cx="9.517" cy="9.517" r="9.517" transform="translate(499.1 366.083)" fill="#f3525d"/>
+        <path id="Tracé_2584" data-name="Tracé 2584" d="M507.469,430.129a15.637,15.637,0,1,1,31.274,0" transform="translate(-14.488 -27.884)" fill="#f3525d"/>
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="73.705" height="44.043" rx="7.007" transform="translate(512.771 305.656)" fill="none" stroke="#3dc9a5" stroke-miterlimit="10" stroke-width="5.259"/>
+        <line id="Ligne_2" data-name="Ligne 2" x2="6.792" y2="30.714" transform="translate(562.724 349.7)" fill="none" stroke="#3dc9a5" stroke-miterlimit="10" stroke-width="5.259"/>
+        <line id="Ligne_3" data-name="Ligne 3" x1="9.956" y2="32.373" transform="translate(527.613 349.7)" fill="none" stroke="#3dc9a5" stroke-miterlimit="10" stroke-width="5.259"/>
+        <rect id="Rectangle_32" data-name="Rectangle 32" width="7.866" height="28.276" rx="3.933" transform="translate(515.83 329.02) rotate(56.389)" fill="#f3525d"/>
+        <g id="Groupe_299" data-name="Groupe 299" transform="translate(526.646 316.52)">
+          <path id="Tracé_2585" data-name="Tracé 2585" d="M568.354,320.262c-.217,0-.43.019-.644.033v10.568h11.245A10.6,10.6,0,0,0,568.354,320.262Z" transform="translate(-556.569 -320.262)" fill="#081d82"/>
+          <path id="Tracé_2586" data-name="Tracé 2586" d="M562.687,321.8a10.594,10.594,0,1,0,11.245,10.568H562.687Z" transform="translate(-552.731 -320.657)" fill="#e3a437"/>
+        </g>
+        <g id="Groupe_300" data-name="Groupe 300" transform="translate(556.603 317.668)">
+          <line id="Ligne_4" data-name="Ligne 4" x2="23.027" transform="translate(0 0)" fill="none" stroke="#081d82" stroke-miterlimit="10" stroke-width="2.907"/>
+          <line id="Ligne_5" data-name="Ligne 5" x2="23.027" transform="translate(0 5.838)" fill="none" stroke="#081d82" stroke-miterlimit="10" stroke-width="2.907"/>
+          <line id="Ligne_6" data-name="Ligne 6" x2="23.027" transform="translate(0 11.675)" fill="none" stroke="#081d82" stroke-miterlimit="10" stroke-width="2.907"/>
+          <line id="Ligne_7" data-name="Ligne 7" x2="23.027" transform="translate(0 17.513)" fill="none" stroke="#081d82" stroke-miterlimit="10" stroke-width="2.907"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

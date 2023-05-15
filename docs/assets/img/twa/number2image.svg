@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="411" height="289" viewBox="0 0 411 289">
+  <defs>
+    <clipPath id="clip-Plan_de_travail_7">
+      <rect width="411" height="289"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_7" data-name="Plan de travail – 7" clip-path="url(#clip-Plan_de_travail_7)">
+    <rect width="411" height="289" fill="#fff"/>
+    <g id="Groupe_406" data-name="Groupe 406" transform="translate(-796 -1413)">
+      <text id="What_do_we_aim_for_" data-name="What do we aim for?" transform="translate(804 1610)" fill="#081d82" font-size="224" font-family="Raleway" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+      <text id="A_2-months_online_incubation_program_for_the_best_8_startups" data-name="A 2-months online incubation program for the best 8 startups" transform="translate(947 1582)" fill="#050f3c" font-size="20" font-family="Raleway-Regular, Raleway"><tspan x="0" y="19">A 2-months online </tspan><tspan x="0" y="43">incubation program for the </tspan><tspan x="0" y="67">best 8 startups</tspan></text>
+      <g id="Groupe_298" data-name="Groupe 298" transform="translate(254.527 1154.1)">
+        <circle id="Ellipse_11" data-name="Ellipse 11" cx="16.628" cy="16.628" r="16.628" transform="translate(740.3 323.357)" fill="#f3525d"/>
+        <path id="Tracé_2577" data-name="Tracé 2577" d="M729.607,397.907a27.321,27.321,0,0,1,54.642,0" transform="translate(0 -11.369)" fill="#f3525d"/>
+        <circle id="Ellipse_12" data-name="Ellipse 12" cx="16.628" cy="16.628" r="16.628" transform="translate(813.789 323.357)" fill="#f3525d"/>
+        <path id="Tracé_2578" data-name="Tracé 2578" d="M823.819,397.907a27.322,27.322,0,0,1,54.643,0" transform="translate(-20.723 -11.369)" fill="#f3525d"/>
+        <rect id="Rectangle_29" data-name="Rectangle 29" width="73.489" height="43.914" rx="6.662" transform="translate(756.928 350.92)" fill="#e3a437" stroke="#3dc9a5" stroke-miterlimit="10" stroke-width="5"/>
+        <circle id="Ellipse_13" data-name="Ellipse 13" cx="5.573" cy="5.573" r="5.573" transform="translate(788.099 367.304)" fill="#3dc9a5"/>
+        <rect id="Rectangle_30" data-name="Rectangle 30" width="77.509" height="5.435" rx="2.718" transform="translate(754.918 397.828)" fill="#3dc9a5"/>
+        <circle id="Ellipse_14" data-name="Ellipse 14" cx="8.17" cy="8.17" r="8.17" transform="translate(838.875 331.815)" fill="#081d82"/>
+        <path id="Tracé_2579" data-name="Tracé 2579" d="M831.731,340.05a21.15,21.15,0,1,1,42.3,0" transform="translate(-22.464 0)" fill="none" stroke="#081d82" stroke-miterlimit="10" stroke-width="3"/>
+        <circle id="Ellipse_15" data-name="Ellipse 15" cx="8.17" cy="8.17" r="8.17" transform="translate(805.619 331.815)" fill="#081d82"/>
+      </g>
+    </g>
+  </g>
+</svg>

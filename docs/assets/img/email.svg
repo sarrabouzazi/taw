@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="388" height="67" viewBox="0 0 388 67">
+  <defs>
+    <clipPath id="clip-Plan_de_travail_25">
+      <rect width="388" height="67"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_25" data-name="Plan de travail – 25" clip-path="url(#clip-Plan_de_travail_25)">
+    <g id="Groupe_453" data-name="Groupe 453" transform="translate(-1450 -6720.723)">
+      <g id="Groupe_232" data-name="Groupe 232" transform="translate(56.332 5886.259)">
+        <path id="Tracé_1846" data-name="Tracé 1846" d="M1418.329,873.735l6.062,16.779s.758,1.57,1.57,1.57,12.882-12.557,12.882-12.557l13.423-25.927-33.721,15.805Z" transform="translate(-4.323 -1.867)" fill="#c8daea"/>
+        <path id="Tracé_1847" data-name="Tracé 1847" d="M1428.567,885.885l-1.163,12.367s-.488,3.789,3.3,0,7.415-6.711,7.415-6.711Z" transform="translate(-6.523 -9.713)" fill="#a9c6d8"/>
+        <g id="Groupe_231" data-name="Groupe 231" transform="translate(1400.542 845.917)">
+          <path id="Tracé_1848" data-name="Tracé 1848" d="M1414.116,872.467l-12.469-4.063s-1.488-.6-1.011-1.976c.1-.283.3-.523.893-.939,2.764-1.926,51.141-19.314,51.141-19.314a4.131,4.131,0,0,1,2.173-.154,1.178,1.178,0,0,1,.8.875,3.95,3.95,0,0,1,.108,1.1c0,.32-.043.617-.072,1.082-.294,4.754-9.11,40.234-9.11,40.234s-.527,2.076-2.418,2.147a3.46,3.46,0,0,1-2.526-.973c-3.709-3.191-16.529-11.806-19.362-13.7a.543.543,0,0,1-.232-.382c-.039-.2.178-.447.178-.447s22.323-19.842,22.916-21.925c.046-.161-.126-.241-.361-.171-1.483.545-27.184,16.775-30.021,18.568A1.371,1.371,0,0,1,1414.116,872.467Z" transform="translate(-1400.542 -845.917)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="_1772_Nevskaya_Street" data-name="1772 Nevskaya Street" transform="translate(1530 6766.437)" fill="#fff" font-size="21" font-family="Raleway" font-weight="600"><tspan x="0" y="0">hello@techafricanwomen.com</tspan></text>
+    </g>
+  </g>
+</svg>
