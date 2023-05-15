@@ -1,0 +1,220 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+
+}
+
+.container {
+  margin-top: 30px;
+}
+
+
+h3 {
+  padding-top: 20px;
+  margin-left: 10%;
+  color: #081D82;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+a {
+  color: #5846f9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #050F3C;
+  text-decoration: none;
+}
+
+button {
+  border: none;
+
+  font-weight: 600;
+  font-size: 49;
+  background-color: transparent;
+  padding-left: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  padding: 0 10px;
+
+}
+
+.nav-tabs .nav-item.show,
+.nav-tabs .nav-link.active {
+  border-top: transparent;
+  border-right: transparent;
+  border-left: transparent;
+  background-color: transparent;
+  font-weight: bold;
+  color: white;
+  border-bottom: 8px solid #081D82;
+
+
+}
+
+.nav-link {
+  border: none;
+  margin-left: -9px;
+  margin-right: -9px;
+  color: #050F3C;
+  font-weight: 600;
+}
+
+/*cornerflag*/
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px solid #000000;
+}
+
+.image2 {
+  position: absolute;
+  top: 1px;
+  left: 250px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+/* startup-logo */
+.logos {
+  background-color: #f7f7f7e3;
+  width: 100%;
+}
+
+.logos h2 {
+  margin-bottom: 50px;
+  color: #3DC9A5;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img-dig {
+  height: 130px;
+  width: 130px;
+
+}
+
+.site {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 30px;
+  width: 60%;
+}
+
+.img-team {
+  position: relative;
+  margin-left: 120px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  border-top-left-radius: 50%;
+  /* 100px of height + 10px of border */
+  border-top-right-radius: 50%;
+  /* 100px of height + 10px of border */
+  border: 8px solid #D19237;
+  border-bottom: 0;
+  border-right: 0;
+  border-top: 1;
+}
+
+.circle {
+  position: absolute;
+  left: 230px;
+  width: 50px;
+  height: 50px;
+  -webkit-border-radius: 21px;
+  -moz-border-radius: 2px;
+  border-radius: 50px;
+  background: #4da6ff;
+}
+
+.founder {
+  padding-left: 50px;
+  color: #3DC9A5;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.app {
+  padding-left: 50px;
+  color: #081D82;
+  font-weight: 600;
+  font-size: 27px;
+}
+
+.name {
+  margin-bottom: 0;
+  color: #E1525D;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.startup {
+  color: #081C80;
+  font-weight: bold;
+  font-size: 25px;
+
+}
+
+.description {
+  color: #081C80;
+  font-size: 15px;
+
+}
+
+.info {
+  padding-left: 120px;
+}
+
+.infos {
+  padding-top: 30px;
+}
+
+.to-top {
+  bottom: 0;
+  cursor: pointer;
+  margin: 0 8px 12px 0;
+  position: fixed;
+  right: 0;
+}
+
+/* Media Query */
+@media (min-width: 992px)and (max-width: 1175px) {
+  .circle {
+    position: absolute;
+    left: 230px;
+    margin-top: -15%;
+    margin-bottom: -15%;
+    width: 50px;
+    height: 50px;
+    -webkit-border-radius: 21px;
+    -moz-border-radius: 2px;
+    border-radius: 50px;
+    background: #4da6ff;
+  }
+}
+
+.btn-danger {
+  background-color: #050F3C;
+  height: 37px;
+  width: 46px;
+  border: transparent;
+  color: #FFFFFF;
+  opacity: 1;
+  font-weight: 200;
+  font-size: medium;
+  font-family: Poppins;
+
+}

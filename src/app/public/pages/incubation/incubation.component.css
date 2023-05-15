@@ -1,0 +1,355 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+}
+
+h3 {
+  margin-top: 23px;
+  margin-bottom: 35px;
+  margin-left: 12%;
+  color: #081D82;
+  font-weight: 700;
+}
+
+h3 {
+  color: #081D82;
+  font-weight: bold;
+  font-size: 35;
+}
+
+a {
+  color: #5846f9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #050F3C;
+  text-decoration: none;
+}
+
+.container {
+  padding-bottom: 30px;
+}
+
+.parag {
+  font-size: large;
+  font-weight: 700;
+  text-align: center;
+  color: #040f74;
+}
+
+.overlay {
+  background-color: #4944e048;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  z-index: 2;
+}
+
+.display-1 {
+  padding-top: 30%;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 73px;
+
+}
+
+.cover {
+  padding-left: 0px;
+  align-items: center;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 20px;
+}
+
+.a1 {
+
+  height: 250px;
+  width: 250px;
+}
+
+#card {
+  height: 250px;
+  width: 250px;
+}
+
+.a1 img {
+  object-fit: cover;
+  opacity: 0.4;
+  height: 250px;
+  width: 250px;
+  margin-right: 10px;
+}
+
+.btn {
+  font-weight: 700;
+  transition: .5s;
+
+}
+
+.btn:hover {
+  -webkit-box-shadow: 0 8px 6px -6px #555555;
+  -moz-box-shadow: 0 8px 6px -6px #555555;
+  box-shadow: 0 8px 6px -6px #555555;
+}
+
+.btn-danger {
+  background-color: #050F3C;
+  border: transparent;
+  color: #FFFFFF;
+  opacity: 1;
+  font-weight: 200;
+  font-size: medium;
+  font-family: Poppins;
+  padding-bottom: 5px;
+
+}
+
+.btn-round {
+  border-radius: 40px;
+
+  padding: 20px 70px 20px 70px;
+
+}
+
+.btn-danger:hover,
+.btn-danger:focus,
+.btn-danger:active,
+.btn-danger.active,
+.show>.btn-danger.dropdown-toggle {
+  background-color: #8F5422;
+  color: #FFFFFF;
+}
+
+.btn-primary {
+  color: #FFFFFF;
+}
+
+
+
+.to-top {
+  bottom: 0;
+  cursor: pointer;
+  margin: 0 8px 12px 0;
+  position: fixed;
+  right: 0;
+}
+
+/*Program timeline*/
+.progtim {
+  color: #3dc9a5;
+}
+
+@-webkit-keyframes up-down {
+  0% {
+    transform: translateY(10px);
+  }
+
+  100% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes up-down {
+  0% {
+    transform: translateY(10px);
+  }
+
+  100% {
+    transform: translateY(-10px);
+  }
+}
+
+/*--------------------------------------------------------------
+# Sections General
+--------------------------------------------------------------*/
+section {
+  padding: 10px 0;
+  overflow: hidden;
+}
+
+.section-bg {
+  background-color: #ffffff;
+}
+
+.section-title {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.section-title h2 {
+  font-size: 32px;
+
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.section-title h2::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 3px;
+
+  bottom: 0;
+  left: calc(50% - 25px);
+}
+
+.section-title p {
+  margin-bottom: 0;
+}
+
+
+/*----------Section Titles----------*/
+h3 {
+  padding-left: 20px;
+  color: #040f74;
+  font-weight: 700;
+}
+
+/*--------------------------------------------------------------
+  # Bootcamps
+  --------------------------------------------------------------*/
+.bootcamp {
+  width: 100%;
+}
+
+/*--------------------------------------------------------------
+  # Counts
+  --------------------------------------------------------------*/
+.counts {
+  background-color: #ffffff;
+
+  padding: 60px 0 20px 0;
+}
+
+.counts .counters span {
+  font-size: 48px;
+  display: block;
+  color: red;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.counts .counters {
+  padding: 0;
+  margin: 10px 0 20px 0;
+  font-size: 15px;
+  color: rgb(10, 10, 7);
+}
+
+/*--------------Taw 1.0 in numbers!*/
+.numbers {
+  padding-left: 15%;
+}
+
+.img-fluid {
+  padding-top: 10px;
+  height: 170px;
+}
+
+
+
+.team {
+  margin-top: 50px;
+  margin-left: 0%;
+  padding-left: 0px;
+}
+
+.img-team {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: 4px solid #ffffff;
+
+}
+
+/*--------------------------------------------------------------
+  # Demo Day
+  --------------------------------------------------------------*/
+.demo {
+  margin-top: 50px;
+  margin-left: 0%;
+  padding-left: 0px;
+}
+
+.img-demo {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: 3px solid #3dc9a5;
+
+}
+
+/*--------------------------------------------------------------
+  # Honorable judges
+  --------------------------------------------------------------*/
+.judges {
+  margin-top: 50px;
+  margin-left: 0%;
+  padding-left: 0px;
+}
+
+.img-judges {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: 3px solid #3dc9a5;
+
+}
+
+.judgesnames {
+  color: #050F3C;
+  font-weight: 400;
+}
+
+
+/*-----------Digital--------------*/
+.caption {
+  color: #081D82;
+  font-size: medium;
+  font-weight: 500;
+  text-align: center;
+
+}
+
+/*-----------Digital--------------*/
+.img-dig {
+  height: 140px;
+  width: 140px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+/*--------Experts-----------*/
+.job {
+  color: #081D82;
+}
+
+.expert {
+  color: white;
+}
+
+.experts h2 {
+  color: white;
+}
+
+.carousel-control-prev {
+  padding-right: 9%;
+}
+
+.carousel-control-next {
+  padding-left: 11%;
+
+
+}
+
+/* colors : #3dc9a5*/

@@ -1,0 +1,369 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+  }
+  
+  a {
+    color: #5846f9;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #050F3C;
+    text-decoration: none;
+  }
+  h2{
+    font-weight: 800;
+    font-family: 'Raleway', sans-serif;
+  }
+  .btn-danger {
+    background-color: #F3525D;
+
+    border: transparent;
+    color: #FFFFFF;
+    opacity: 1;
+    font-weight: 200;
+    font-size: medium;
+    font-family: Poppins;
+    padding-bottom: 5px;
+    
+  }
+  /*Header*/
+.container-fluid{
+  height: 100%;
+}
+.overlay {
+    background: -webkit-radial-gradient(bottom left,#081c8277 39%,#f3525d63 );
+    height: 100%;
+    width: 100%;
+    left: 0;
+    z-index: 2;
+  }
+  .display-1{
+    padding-top:30%;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 73px;
+
+}
+ 
+
+  .centered {
+    position: relative;
+    bottom: 220px;
+   
+    
+    color: white;
+   
+  }
+  .centered img{
+    height: 160px;
+    width: 220px;
+
+  }
+  .a1{
+    
+    height: 250px;
+    width: 250px;
+  }
+  #card{
+    height: 250px;
+    width: 250px;
+  }
+  .a1 img {
+    object-fit: cover;
+    opacity: 0.4;
+    height: 250px;
+    width: 250px;
+    margin-right: 10px;
+  }
+
+  .back-to-top {
+      position: fixed;
+      display: none;
+      right: 30px;
+      bottom: 0;
+      border-radius: 50% 50% 0 0;
+      z-index: 99;
+  }
+ 
+  .hero-header {
+      background: url(src/assets/img/Bootcamps/Ethiopia/DSC_2094.jpg) ;
+      background-size: cover;
+      height: auto;
+      max-width: 100%;
+      display: flex;
+
+  }
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
+
+  @-webkit-keyframes up-down {
+    0% {
+      transform: translateY(10px);
+    }
+    100% {
+      transform: translateY(-10px);
+    }
+  }
+  
+  @keyframes up-down {
+    0% {
+      transform: translateY(10px);
+    }
+    100% {
+      transform: translateY(-10px);
+    }
+  }
+/*--------------------------------------------------------------
+# Sections General
+--------------------------------------------------------------*/
+section {
+    padding: 10px 0;
+    overflow: hidden;
+  }
+  
+  .section-bg {
+    background-color: #ffffff;
+  }
+  
+  .section-title {
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+  }
+
+  .section-title p {
+    margin-bottom: 0;
+  }
+ 
+
+  /*---------------------who are we? section -----------------------*/
+  .carousel-inner{
+    box-shadow:0 0 5px rgba(231, 231, 231, 0.788);
+    border-radius: 50px;
+    width: 100%;
+    transform: translateX(0);
+
+  }
+  .carousel{
+    padding-bottom: 5%;
+    width: 100%;
+    
+  }
+
+ .carousel-indicators{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;  
+  padding-top: 10px;
+ }
+ .carousel-indicators button {
+  width: 10px;
+  height: 10px;
+  
+  border-radius: 100%;
+}
+ .betacube h2{
+  color: white;
+ }
+ .betacube p{
+  color: white;
+font-weight: normal;
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 20px;
+ }
+ 
+
+ .carousel-item{
+  background-color: white;
+  height: 100%;
+      width: 100%;
+      transition: transform 0.5s ease-in-out;
+
+ }
+ .carousel-item p{
+  color:#081D82;
+  font-weight: bold;
+  text-align: center;
+ }
+  .carousel-item .img{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    height: 80px;
+    width: 300px;
+  }
+  .carousel-item .img1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 60px;
+    width: 170px;
+  }
+  .carousel-item .url{
+    margin-top: 5px;
+    margin-bottom: 22px;
+    height: 30px;
+    width: 180px;
+  } 
+  .carousel-item .url1{
+    margin-bottom: 10px;
+    height: 30px;
+    width: 180px;
+  } 
+  /* ------------Media Query -------------*/
+  @media (max-width: 768px) {
+    
+    .carousel-item{
+      background-color: white;
+      height: 100%;
+      width: 100%;
+      
+     }
+    .carousel-item .img{
+      margin-top: 40px;
+      padding-top: 10px;
+      margin-bottom: 10px;
+      height: 70px;
+      width: 200px;
+    }
+    .carousel-item p{
+      color:#081D82;
+      font-weight: bold;
+      
+      text-align: center;
+
+     }
+     .carousel-item .p1{
+     margin-top: 50px;
+     }
+     .carousel-item .url{
+      margin-top: 40px;
+      margin-bottom: 40px;
+      height: 30px;
+      width: 180px;
+    } 
+    .carousel-item .url1{
+      margin-top: 10px;
+      margin-bottom: 30px;
+      height: 30px;
+      width: 180px;
+    }
+  }
+  @media (min-width: 1400px) {
+    .carousel-item .url{
+      margin-top: 5px;
+      margin-bottom: 22px;
+      height: 30px;
+      width: 180px;
+    } 
+    .carousel-item .url1{
+      margin-bottom: 32px;
+      height: 30px;
+      width: 180px;
+    } 
+    }
+
+ /*--------------Target----------------------------------*/
+ 
+.img-fluid{
+  padding-top: 10px;
+  
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 20px;
+}
+
+
+.target-caption{
+  color:#081C80;
+  font-size: 20;
+  font-weight: bold;
+  text-align: center;
+  font-style: Poppins;
+  display: block;
+
+}
+/*------------------------------Outcomes----------------------------*/
+.img-dig{
+  margin-bottom: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.caption{
+  color:#081D82;
+  font-size: 34;
+  font-weight: bold;
+  text-align: center;
+  font-style: Poppins;
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 370px;
+}
+.caption-title{
+  color:#081D82;
+  font-size: 22px;
+  font-weight: 900;
+  text-align: center;
+  font-style: Poppins;
+ margin-bottom: -10px;
+}
+.outcomes-container{
+  margin-top: 50px;
+  margin-left: 0%;
+  padding-left: 0px;
+}
+/*---------------------------Paragraph----------------------------------*/
+  .parag {
+    margin-top: 50px;
+    color: #081D82;
+    text-align: center;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+  }
+/*--------------------------Team members----------------------------*/
+  .team{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  .team h2{
+    font-family: 'Raleway';
+    font-weight: 800;
+    color: #3dc9a5;
+    margin-bottom: 20px;
+  }
+  .team p{
+    margin-top: 10px;
+    color: #050F3C;
+    font-size: medium;
+    font-family: 'Raleway', sans-serif;
+  }
+  .img-team{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid #3DCBA5;
+  
+  }
+  .to-top {
+    bottom: 0;
+    cursor: pointer;
+    margin: 0 8px 12px 0;
+    position: fixed;
+    right: 0;
+  }
+  
+  /* colors : #3dc9a5*/
+

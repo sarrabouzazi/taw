@@ -1,0 +1,665 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+}
+
+a {
+  color: #5846f9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #050F3C;
+  text-decoration: none;
+}
+
+/*Carousel*/
+
+.carousel-indicators {
+  position: absolute;
+  bottom: -50px;
+}
+
+.carousel-item {
+  margin-left: 80px;
+}
+
+/*Header*/
+.container-fluid {
+  height: 100%;
+}
+
+.parag-c {
+  height: 40%;
+}
+
+.parag {
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+  color: #040f74;
+  padding-top: 22px;
+  padding-bottom: 10px;
+  line-height: 1.9;
+
+}
+
+.overlay {
+  background-color: #4944e048;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  z-index: 2;
+}
+
+.display-1 {
+  padding-top: 30%;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 73px;
+
+}
+
+.cover {
+  padding-left: 0px;
+  align-items: center;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 20px;
+}
+
+.a1 {
+
+  height: 250px;
+  width: 250px;
+}
+
+#card {
+  height: 250px;
+  width: 250px;
+}
+
+
+
+.to-top {
+  bottom: 0;
+  cursor: pointer;
+  margin: 0 8px 12px 0;
+  position: fixed;
+  right: 0;
+}
+
+.hero-header {
+  background-size: cover;
+  height: 800px;
+  width: auto;
+}
+
+/*Program timeline*/
+.progtim {
+  color: #3dc9a5;
+}
+
+/*-------------- winners container ----------*/
+
+.winners h2 {
+  font-weight: 900;
+}
+
+.winners p {
+  font-weight: 600;
+  line-height: 1.7;
+
+}
+
+.contai {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contai img {
+  margin-top: 10px;
+  margin-right: 50px;
+  width: 110px;
+  height: 200px;
+}
+
+.contai h2 {
+  font-weight: 900;
+  margin-bottom: 1px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.contai .text {
+  padding-left: 15%;
+
+  font-weight: 400;
+  font-size: 20px;
+  font-family: 'Raleway';
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.contai p {
+  line-height: 1.9;
+}
+
+/*--------------------------------------------------------------
+# Sections General
+--------------------------------------------------------------*/
+section {
+  padding: 10px 0;
+  overflow: hidden;
+}
+
+.section-bg {
+  background-color: #ffffff;
+}
+
+.section-title {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  text-align: center;
+  color: white;
+}
+
+.exp {
+  padding-bottom: 30px;
+}
+
+.exp .section-title {
+  font-weight: bold;
+
+}
+
+.exps {
+  padding-top: 1px;
+}
+
+.collab p {
+  font-weight: 600;
+  color: #081C80;
+  font-size: 20pt;
+  line-height: 1.8;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.collaboration {
+  margin-left: auto;
+  margin-right: auto;}
+
+.collab img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 260px;
+  height: 160px;
+  margin-top: 20px;
+}
+
+.collab .imgs {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 160px;
+  height: 160px;
+  margin-top: 20px;
+
+}
+
+.collab .p {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  color: #3dc9a5;
+  text-align: center;
+  font-size: 28pt;
+  font-weight: bold;
+}
+
+.collab .container {
+  margin-bottom: 20px;
+
+}
+
+h2 {
+  color: white;
+}
+
+.countries {
+  display: block;
+  margin-left: 30%;
+  margin-right: auto;
+}
+
+
+
+
+/*----------Section Titles----------*/
+h3 {
+  margin-top: 23px;
+  margin-bottom: 35px;
+  margin-left: 12%;
+  color: #081D82;
+  font-weight: bold;
+}
+
+/*--------------------------------------------------------------
+  # Bootcamps
+  --------------------------------------------------------------*/
+.bootcamps {
+  padding-top: 0px;
+  text-align: center;
+  color: white;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.bootcamp-img {
+  width: 100%;
+
+}
+
+button {
+  border: none;
+  color: white;
+  font-weight: 600;
+  font-size: 49;
+  background-color: transparent;
+  padding-left: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  padding: 0 10px;
+
+}
+
+.nav-tabs .nav-item.show,
+.nav-tabs .nav-link.active {
+  border-top: transparent;
+  border-right: transparent;
+  border-left: transparent;
+  background-color: transparent;
+  font-weight: bold;
+  color: white;
+  border-bottom: 12px solid #081D82;
+}
+
+.nav-tabs .nav-item.show .countr1,
+.nav-tabs .countr1.active {
+  border-top: transparent;
+  border-right: transparent;
+  border-left: transparent;
+  border-bottom: 8px solid #F3525D;
+  background-color: transparent;
+  color: white;
+}
+
+.nav-tabs .nav-item.show .countr2,
+.nav-tabs .countr2.active {
+  border-top: transparent;
+  border-right: transparent;
+  border-left: transparent;
+  border-bottom: 8px solid #55A68B;
+  background-color: transparent;
+  color: white;
+}
+
+.nav-tabs .nav-item.show .countr3,
+.nav-tabs .countr3.active {
+  border-top: transparent;
+  border-right: transparent;
+  border-left: transparent;
+  border-bottom: 8px solid #00B2CA;
+  background-color: transparent;
+  color: white;
+}
+
+.nav-tabs .nav-item.show .countr4,
+.nav-tabs .countr4.active {
+  border-top: transparent;
+  border-right: transparent;
+  border-left: transparent;
+  border-bottom: 8px solid #D09338;
+  background-color: transparent;
+  color: white;
+}
+
+.nav-item {
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+
+.nav-link {
+  border: none;
+  color: #ffffff;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-weight: 300;
+  font-size: 26px;
+}
+
+.boot {
+  height: auto;
+}
+
+.bootcamp-t {
+  height: 490px;
+}
+
+.bootc-c {
+  padding-bottom: 1px;
+}
+
+/*--------------------------------------------------------------
+  # Counts
+  --------------------------------------------------------------*/
+.counts {
+  background-color: #ffffff;
+
+  padding: 60px 0 20px 0;
+}
+
+.counts .counters span {
+  font-size: 48px;
+  display: block;
+  color: red;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.counts .counters {
+  padding: 0;
+  margin: 10px 0 20px 0;
+  font-size: 15px;
+  color: rgb(10, 10, 7);
+}
+
+/*--------------Taw 1.0 in numbers!*/
+.numbers {
+  padding-left: 15%;
+}
+
+.img-fluid {
+  padding-top: 10px;
+  height: 170px;
+}
+
+
+
+.team {
+  margin-top: 50px;
+  padding-left: auto;
+  padding-right: auto;
+}
+
+.bootcamp-imgs {
+  height: 250px;
+  width: 250px;
+}
+
+.img-tunis {
+
+  border-radius: 50%;
+  border: 7px solid #081D82;
+  margin-bottom: 20px;
+  object-fit: cover;
+
+}
+
+.img-senegal {
+
+  border-radius: 50%;
+  border: 7px solid #3FB591;
+  margin-bottom: 20px;
+  object-fit: fill;
+
+}
+
+.img-tanzania {
+
+  border-radius: 50%;
+  border: 7px solid #00B2CA;
+  margin-bottom: 20px;
+  object-fit: fill;
+
+}
+
+.img-ethiopia {
+
+  border-radius: 50%;
+  border: 7px solid #D09338;
+  margin-bottom: 20px;
+  object-fit: fill;
+
+}
+
+.tanz {
+  display: none;
+}
+
+.container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 1px;
+}
+
+/*--------------------------------------------------------------
+  # Demo Day
+  --------------------------------------------------------------*/
+.demo {
+  margin-top: 50px;
+  margin-left: 0%;
+  padding-left: 0px;
+}
+
+.img-demo {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: 3px solid #3dc9a5;
+
+}
+
+/*--------------------------------------------------------------
+  # Experts
+  --------------------------------------------------------------*/
+.judges {
+  margin-top: 50px;
+  margin-left: 0%;
+  padding-left: 0px;
+}
+
+.img-judges {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: 3px solid #3dc9a5;
+
+}
+
+.judgesnames {
+  color: #050F3C;
+  font-weight: 400;
+}
+
+.img-tunis1 {
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  border: 8px solid #CB5057;
+  margin-bottom: 20px;
+}
+
+.judges-imgs {
+  height: 170px;
+  width: 170px;
+}
+
+.trainers {
+  margin-top: 47px;
+  position: relative;
+  width: 350px;
+  left: -15%;
+
+}
+
+.training p {
+  color: white;
+  font-weight: normal;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.judges {
+  margin-top: 15px;
+  position: relative;
+  width: 350px;
+  left: -15%;
+
+}
+
+.sidebar-first-item:before {
+  content: "";
+  position: absolute;
+  width: 10%;
+  height: 1px;
+  background-color: #CB5057;
+  margin-top: 6%;
+  left: -80px;
+}
+
+.tra {
+  font-size: 26;
+  padding-left: 6%;
+  color: #CB5057;
+}
+
+.dot {
+  margin-top: 50px;
+  height: 14px;
+  width: 14px;
+  background-color: #CB5057;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 3px;
+}
+
+.trainers {
+  padding-left: 10px;
+}
+
+.trainer {
+  padding-left: 150px;
+}
+
+.trainer1 {
+  padding-right: 150px;
+}
+
+.centered-element {
+  margin: 0;
+  position: relative;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+
+}
+
+/*------------------------- mediq-query -------------------------------------------*/
+@media (max-width: 768px) {
+  .trainer {
+    margin-left: -30%;
+  }
+
+  .trainer1 {
+    padding-left: 30%;
+  }
+}
+
+@media (max-width: 576px) {
+  .trainer {
+    margin-left: -19%;
+  }
+
+  .trainer1 {
+    padding-left: 20%;
+  }
+}
+
+@media (max-width: 992px) {
+  .nav-link {
+    color: #ffffff;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: 300;
+    font-size: 25px;
+  }
+
+  .team1 {
+    margin-top: 0px;
+    padding-left: 8%;
+    padding-right: 1%;
+  }
+
+  .team2 {
+    margin-top: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .bootcamp-imgs {
+    height: 180px;
+    width: 180px;
+  }
+}
+
+@media (min-width: 992px) {
+  .team1 {
+    margin-top: 40px;
+    padding-left: 9%;
+    padding-right: 9%;
+  }
+
+  .team2 {
+    margin-top: 50px;
+    padding-left: 30%;
+    padding-right: 30%;
+  }
+}
+
+.btn-danger {
+  background-color: #050F3C;
+  height: 37px;
+  width: 46px;
+  border: transparent;
+  color: #FFFFFF;
+  opacity: 1;
+  font-weight: 200;
+  font-size: medium;
+  font-family: Poppins;
+
+}

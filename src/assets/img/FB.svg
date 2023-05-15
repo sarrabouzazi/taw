@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="69" viewBox="0 0 53 69">
+  <defs>
+    <clipPath id="clip-Plan_de_travail_24">
+      <rect width="53" height="69"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_24" data-name="Plan de travail – 24" clip-path="url(#clip-Plan_de_travail_24)">
+    <g id="_07_Buttons_10_Social_Buttons_Facebook_On_Black_" data-name="07 Buttons / 10 Social Buttons [Facebook] (On Black)" transform="translate(0.059 11.111)">
+      <g id="Icon" transform="translate(-0.416 -0.003)">
+        <g id="Rectangle" transform="translate(0.357)" fill="#fff" stroke="#000" stroke-width="1" opacity="0">
+          <rect width="44" height="47" stroke="none"/>
+          <rect x="0.5" y="0.5" width="43" height="46" fill="none"/>
+        </g>
+        <path id="Path" d="M15.892,26.082V6.013h7.242l1.085-7.851H15.892v-5c0-2.267.674-3.813,4.156-3.813h4.416v-7.015a63.557,63.557,0,0,0-6.468-.3A9.77,9.77,0,0,0,10.2-15.3,9.77,9.77,0,0,0,7.213-7.617v5.776H0V6.01H7.213V26.082h8.679" transform="translate(12.034 19.653)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
